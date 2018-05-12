@@ -1,0 +1,29 @@
+_repo: John-Leech-s-Pictures-of-Life-and-Character-Volume-3--of-3-From-the-Collection-of--Mr.-Punch-_45813
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45813-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+description: ''
+gutenberg_issued: '2014-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor, Pictorial'
+- !lcc 'NC'
+title: "John Leech's Pictures of Life and Character, Vol. 3 (of 3)\r\nFrom the Collection\
+  \ of \"Mr. Punch\""
+url: http://www.gutenberg.org/ebooks/45813
