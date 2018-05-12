@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45813#John-Leech-s-Pictures-of-Life-and-Character-Volume-3--of-3-From-the-Collection-of--Mr.-Punch-
 gutenberg_issued: '2014-06-01'
 gutenberg_type: Text
 identifiers:
